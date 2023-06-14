@@ -1,1 +1,1 @@
-# RA: PjBL 1 - jokenpo em python
+# RA: PjBL 1 - jokenpô em python
